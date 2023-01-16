@@ -17,9 +17,24 @@ In this lab I will be setting up a virtual environment that runs Active Director
 - <b>Windows 10 ISO</b>
 
 <h2>Program walk-through:</h2>
-
 <p align="center">
-Launch the utility: <br/>
-
+Open up Virtual Box and then create a Domain Controller with a server 2019 ISO. Then create two NICs, one for the internet running NAT and the other for the internal vm network : <br/>
+https://imgur.com/j4ykeyC
+<br />
+<br />
+Set up IP Addressing: </h2>
+https://imgur.com/jm7KGkU
+<br />
+<br/>
+Install active directory domain services and create domain: </h2>
+https://imgur.com/gwkngKB
+<br />
+<br />
+Install RAS/NAS on DC to allow clients to be on private virtual network but still able to access internet through DC: </h2>
+https://imgur.com/q5d3ta4
+<br />
+<br />
+Set up DHCP server on DC to allow windows 10 clients to get IP address to browse internet on the private network.
+https://imgur.com/baFj6WM
 <br />
 <br />
