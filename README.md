@@ -38,3 +38,15 @@ Set up DHCP server on DC to allow windows 10 clients to get IP address to browse
 https://imgur.com/baFj6WM
 <br />
 <br />
+Set Up domiain with all users and run powershell script: </h2>
+https://imgur.com/7jL4AmU
+<br />
+<br />
+Create Windows 10 Virtual Box: </h2>
+https://imgur.com/2zjLE0J
+<br />
+<br />
+Sign with any of the created users!: </h2>
+https://imgur.com/4PzLk1R
+<br />
+<br />
